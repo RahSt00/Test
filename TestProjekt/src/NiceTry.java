@@ -7,7 +7,7 @@ public class NiceTry {
 		
 		int a= 23;
 		int b= 43;
-		System.out.println(a+b);
+		System.out.println("Das ist ein langweiliges Ergebnis"+a+b);
 	}
 
 }
