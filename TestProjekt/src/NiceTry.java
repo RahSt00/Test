@@ -6,7 +6,7 @@ public class NiceTry {
 // Erstellen wir eine simple Funktion
 		
 		int a= 23;
-		int b= 43;
+		boolean b = false;
 		System.out.println("Das ist ein langweiliges Ergebnis"+a+b);
 	}
 
